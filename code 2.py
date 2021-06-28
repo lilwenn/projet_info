@@ -120,4 +120,5 @@ print(moyenne(list))
 print(variance(list))
 print(ecart_type(list))"""
 
+dfghjklmmlkjhv
 
